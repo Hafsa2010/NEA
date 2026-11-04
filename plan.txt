@@ -1,0 +1,4 @@
+features:
+- coins needed to build walls or towers
+- enemies that come in progressively harder waves to defend against
+- A* pathfinding for enemies
